@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qNrv7lCORHsPMC2kv1Dj5mN+Ngw1eow5ce6T9g/tp9ApBySIIrIuIQ2ke8z2c1HeGI9udvtilm89FCS3o64XbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VTKH\\C#001\\C#001.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VTKH\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\VTKH\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\VTKH\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\VTKH\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
